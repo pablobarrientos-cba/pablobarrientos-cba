@@ -4,7 +4,9 @@ Hi 👋 My name is Pablo Barrientos
 Senior Software Engineer / .NET and Python Developer
 ----------------------------------------------------
 
-20+ Years of experience in a wide range of technological stacks and business domains. Senior Developer and TechLead working for US based clients from 2010 Open to work as a remote contractor (both: part time and full time)
+*   20+ Years of experience in a wide range of technological stacks and business domains.
+*   Senior Developer and TechLead working for US based clients from 2010
+*   Open to work as a remote contractor (both: part time and full time)
 
 *   🌍  I'm based in Cordoba, Argentina
 *   ✉️  You can contact me at [pablobarrientos.cba@gmail.com](mailto:pablobarrientos.cba@gmail.com)
